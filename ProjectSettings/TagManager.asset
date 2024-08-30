@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Rojo
+  - Verde
+  - Azul
+  - Naranja
+  - Negro
+  - salida
+  - final
   layers:
   - Default
   - TransparentFX
