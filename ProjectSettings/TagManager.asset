@@ -11,6 +11,8 @@ TagManager:
   - Negro
   - salida
   - final
+  - Moneda
+  - corazon
   layers:
   - Default
   - TransparentFX

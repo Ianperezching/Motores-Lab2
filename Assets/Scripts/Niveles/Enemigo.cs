@@ -8,7 +8,6 @@ public class Enemigo : MonoBehaviour
     public Transform puntoFinal;   
     public float velocidad = 1.0f; 
     private float _tiempoInicio;
-    private bool _moviendoseHaciaFinal = true;
 
     void Start()
     {
